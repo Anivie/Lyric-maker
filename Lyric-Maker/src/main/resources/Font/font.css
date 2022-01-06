@@ -1,9 +1,0 @@
-@font-face {
-    font-family: "Alibaba PuHuiTi 2.0 + playerfont 75 SemiBold";
-    src: url("alibaba_font.ttf");
-}
-
-.root{
-    -fx-font-size: 15px;
-    -fx-font-family: "Alibaba PuHuiTi 2.0 + playerfont 75 SemiBold";
-}
